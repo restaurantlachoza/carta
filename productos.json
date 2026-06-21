@@ -1,0 +1,113 @@
+{
+  "bebidas": [
+    { "nombre": "Agua Embotellada", "precio": 260 },
+    { "nombre": "refresco Importado", "precio": 350 },
+    { "nombre": "Jugo de Caja", "precio": 350 },
+    { "nombre": "Jugo de Lata", "precio": 450 },
+    { "nombre": "Energizante", "precio": 500 },
+    { "nombre": "Malta Importada", "precio": 480 },
+    { "nombre": "Malta Guajira (500ml)", "precio": 450 },
+    { "nombre": "Malta Guajira (1.5l)", "precio": 1300 },
+    { "nombre": "Cerveza Importada", "precio": 400 },
+    { "nombre": "Cerveza Parranda (330ml)", "precio": 400 },
+    { "nombre": "Cerveza Parranda (1.5l)", "precio": 900 },
+    { "nombre": "Cerveza Nacional", "precio": 450 },
+    { "nombre": "Limonada Natural", "precio": 280 },
+    { "nombre": "Limonada Frape", "precio": 400 },
+    { "nombre": "Piña Colada", "precio": 400 },
+    { "nombre": "Batido de Frutas", "precio": 450 },
+    { "nombre": "Batido de Helado", "precio": 600 },
+    { "nombre": "Malteada", "precio": 700 }
+  ],
+  "aperitivos": [
+    { "nombre": "Bolitas de Queso", "precio": 350 },
+    { "nombre": "Croquetas (8u)", "precio": 450 },
+    { "nombre": "Papas Fritas", "precio": 650 },
+    { "nombre": "Salchipapas", "precio": 950 }
+  ],
+  "helados": [
+    { "nombre": "Jimagua", "precio": 250 },
+    { "nombre": "Tres Gracias", "precio": 350 },
+    { "nombre": "Ensalada", "precio": 600 },
+    { "nombre": "Flan", "precio": 400 }
+    
+  ],
+  "hamburguesas": [
+    { "nombre": "Simple", "precio": 450 },
+    { "nombre": "Doble", "precio": 650 },
+    { "nombre": "Con Queso Caribe", "precio": 650 },
+    { "nombre": "Con Jamón y Queso", "precio": 700 },
+    { "nombre": "Con Queso Gouda", "precio": 750 },
+    { "nombre": "Hamburgueza La Choza", "precio": 950 },
+    { "nombre": "Bocadito de Jamón y Queso", "precio": 400 }
+  ],
+  "pizzas con queso caribe": [
+    { "nombre": "Napolitana", "precio": 400 },
+    { "nombre": "Especial de Queso", "precio": 520 },
+    { "nombre": "Jamón y Queso", "precio": 520 },
+    { "nombre": "Salchicha", "precio": 450 },
+    { "nombre": "Hawaiana", "precio": 600 },
+    { "nombre": "Mixta", "precio": 700 }
+  ],
+  "pizza con queso gouda": [
+    { "nombre": "Napolitana", "precio": 500 },
+    { "nombre": "Especial de Queso", "precio": 700 },
+    { "nombre": "Jamón y Queso", "precio": 700 },
+    { "nombre": "Salchicha", "precio": 600 },
+    { "nombre": "Hawaiana", "precio": 750 },
+    { "nombre": "Mixta", "precio": 850 },
+    { "nombre": "Pizza Choza 30cm", "precio": 1500 }
+  ],
+  "espaguetis con queso caribe": [
+    { "nombre": "Napolitano", "precio": 550 },
+    { "nombre": "Especial de Queso", "precio": 650 },
+    { "nombre": "Jamón y Queso", "precio": 650 },
+    { "nombre": "Salchicha", "precio": 600 },
+    { "nombre": "Mixto", "precio": 850 }
+  ],
+  "espaguetis con queso gouda": [
+    { "nombre": "Napolitano", "precio": 750 },
+    { "nombre": "Especial de Queso", "precio": 900 },
+    { "nombre": "Jamón y Queso", "precio": 900 },
+    { "nombre": "Salchicha", "precio": 850 },
+    { "nombre": "Mixto", "precio": 980 }
+  ],
+  "platos completos": [
+    { "nombre": "Salchichas", "precio": 750 },
+    { "nombre": "Croquetas", "precio": 650 },    
+    { "nombre": "Huevos", "precio": 700 },    
+    { "nombre": "Hamburguesa de Res", "precio": 800 },    
+    { "nombre": "Pollo Asado", "precio": 1250 },    
+    { "nombre": "Pollo Ahumado", "precio": 1250 },    
+    { "nombre": "Jamón Ahumado", "precio": 1200 },    
+    { "nombre": "Bistec de Cerdo", "precio": 1350 },    
+    { "nombre": "Masa de Cerdo", "precio": 1350 },    
+    { "nombre": "Chuleta Asada", "precio": 1400 },    
+    { "nombre": "Chuleta Ahumada", "precio": 1400 },    
+    { "nombre": "Bistec de Pechuga", "precio": 1450 },    
+    { "nombre": "Picadillo de Res", "precio": 1400 },    
+    { "nombre": "Filete de Bonito", "precio": 1400 },    
+    { "nombre": "Pollo Empanado", "precio": 1300 }   
+  ],
+  "guarniciones": [
+    { "nombre": "Arroz Blanco", "precio": 250 },
+    { "nombre": "Arroz Moro", "precio": 350 },
+    { "nombre": "Arroz Amarillo", "precio": 300 },
+    { "nombre": "Potaje de Frijoles", "precio": 300 },
+    { "nombre": "Viandas", "precio": 350 },
+    { "nombre": "Tamales", "precio": 500 },
+    { "nombre": "Platano Frito", "precio": 350 },
+    { "nombre": "Vianda Frita", "precio": 350 }
+  ],
+  "ensaladas": [
+    { "nombre": "Tomate", "precio": 250 },
+    { "nombre": "Pepino", "precio": 250 },
+    { "nombre": "Habichuelas", "precio": 200 },
+    { "nombre": "Mixta", "precio": 350 }
+  ],
+  "para llevar": [
+    { "nombre": "Bolsas", "precio": 20 },
+    { "nombre": "Termo Pack", "precio": 150 },
+    { "nombre": "Vaso de Batido", "precio": 150 }
+  ]
+}
