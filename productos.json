@@ -1,7 +1,7 @@
 {
   "bebidas": [
-    { "nombre": "Agua Embotellada", "precio": 260 },
-    { "nombre": "refresco Importado", "precio": 350 },
+    { "nombre": "Agua Embotellada", "precio": 280 },
+    { "nombre": "Refresco Importado", "precio": 350 },
     { "nombre": "Jugo de Caja", "precio": 350 },
     { "nombre": "Jugo de Lata", "precio": 450 },
     { "nombre": "Energizante", "precio": 500 },
@@ -11,7 +11,7 @@
     { "nombre": "Cerveza Importada", "precio": 400 },
     { "nombre": "Cerveza Parranda (330ml)", "precio": 400 },
     { "nombre": "Cerveza Parranda (1.5l)", "precio": 900 },
-    { "nombre": "Cerveza Nacional", "precio": 450 },
+    { "nombre": "Cerveza Nacional", "precio": 470 },
     { "nombre": "Limonada Natural", "precio": 280 },
     { "nombre": "Limonada Frape", "precio": 400 },
     { "nombre": "Piña Colada", "precio": 400 },
@@ -23,7 +23,8 @@
     { "nombre": "Bolitas de Queso", "precio": 350 },
     { "nombre": "Croquetas (8u)", "precio": 450 },
     { "nombre": "Papas Fritas", "precio": 650 },
-    { "nombre": "Salchipapas", "precio": 950 }
+    { "nombre": "Salchipapas", "precio": 950 },
+    { "nombre": "Dado de Queso", "precio": 750 }
   ],
   "helados": [
     { "nombre": "Jimagua", "precio": 250 },
@@ -47,7 +48,8 @@
     { "nombre": "Jamón y Queso", "precio": 520 },
     { "nombre": "Salchicha", "precio": 450 },
     { "nombre": "Hawaiana", "precio": 600 },
-    { "nombre": "Mixta", "precio": 700 }
+    { "nombre": "Mixta", "precio": 700 },
+    { "nombre": "Agrego Prperoni", "precio": 250 }
   ],
   "pizza con queso gouda": [
     { "nombre": "Napolitana", "precio": 500 },
@@ -56,7 +58,8 @@
     { "nombre": "Salchicha", "precio": 600 },
     { "nombre": "Hawaiana", "precio": 750 },
     { "nombre": "Mixta", "precio": 850 },
-    { "nombre": "Pizza Choza 30cm", "precio": 1500 }
+    { "nombre": "Pizza Choza 30cm", "precio": 2000 },
+    { "nombre": "Agrego Prperoni", "precio": 250 }
   ],
   "espaguetis con queso caribe": [
     { "nombre": "Napolitano", "precio": 550 },
@@ -87,7 +90,12 @@
     { "nombre": "Bistec de Pechuga", "precio": 1450 },    
     { "nombre": "Picadillo de Res", "precio": 1400 },    
     { "nombre": "Filete de Bonito", "precio": 1400 },    
-    { "nombre": "Pollo Empanado", "precio": 1300 }   
+    { "nombre": "Pollo Empanado", "precio": 1300 },  
+    { "nombre": "Jamón Vicky", "precio": 1100 },  
+    { "nombre": "Jamón Prensado", "precio": 1100 },  
+    { "nombre": "Pollo Asado Muslo y Contramuslo", "precio": 1600 },  
+    { "nombre": "Pollo Empanisado", "precio": 1600 },  
+    { "nombre": "Pollo en Salsa", "precio": 1300 } 
   ],
   "guarniciones": [
     { "nombre": "Arroz Blanco", "precio": 250 },
@@ -107,7 +115,8 @@
   ],
   "para llevar": [
     { "nombre": "Bolsas", "precio": 20 },
-    { "nombre": "Termo Pack", "precio": 150 },
-    { "nombre": "Vaso de Batido", "precio": 150 }
+    { "nombre": "Termo Pack", "precio": 200 },
+    { "nombre": "Vaso de Batido", "precio": 250 },
+    { "nombre": "Caja de Pizza", "precio": 200 }
   ]
 }
