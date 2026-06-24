@@ -116,7 +116,7 @@
   "para llevar": [
     { "nombre": "Bolsas", "precio": 20 },
     { "nombre": "Termo Pack", "precio": 200 },
-    { "nombre": "Vaso de Batido", "precio": 250 },
+    { "nombre": "Vaso de Batido", "precio": 150 },
     { "nombre": "Caja de Pizza", "precio": 200 }
   ]
 }
